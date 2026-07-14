@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+# 👋 Hi, I'm Avishka Madusanka<br><br>🎓 Undergraduate at the **University of Vavuniya** pursuing a **Bachelor of Information and Communication Technology (Honours) – BICT (Hons.)**.<br><br>💻 I am passionate about **Software Engineering, Networking, Cybersecurity, and Cloud Computing**. I enjoy building practical applications, exploring new technologies, and solving real-world problems through software solutions.<br><br>## 🚀 About Me<br><br>* 🎓 BICT (Hons.) Undergraduate at the University of Vavuniya<br>* 🌱 Currently expanding my knowledge in Software Development, Networking, Cybersecurity, and Cloud Technologies<br>* 💡 Interested in Full-Stack Development, Mobile Application Development, and Network Security<br>* 🤝 Open to internships, collaborative projects, and learning opportunities<br>* 📚 Committed to continuous learning and professional growth<br><br>## 🛠️ Technical Skills<br><br>**Languages**<br><br>* Python, Java, C++, JavaScript, PHP<br><br>**Web & Mobile**<br><br>* HTML, CSS, React, Flutter, React Native<br><br>**Databases**<br><br>* MySQL, Firebase<br><br>**Networking & Cybersecurity**<br><br>* Cisco Networking, TCP/IP, VLANs, Routing & Switching, Network Fundamentals, Cybersecurity Fundamentals<br><br>**Tools & Technologies**<br><br>* Git, GitHub, VS Code, Linux, Cisco Packet Tracer<br><br>## 🌟 Featured Projects<br><br>* 📍 Garage Locator Mobile Application<br>* 🛣️ Road Mark Mobile Application<br>* 🎂 SA Product – Cake Shop Website<br><br>## 📫 Connect With Me<br><br>* LinkedIn: *(www.linkedin.com/in/avishka-madusanka-401088407)*<br><br>---<br><br>> *"Always learning, always building, and always striving to become a better software engineer."*<br>
 
-<!--
-**AvishkaMadusanka/AvishkaMadusanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/avishka-madusanka-401088407) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madusankaavishka23@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=plastic&logo=Meta&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=AvishkaMadusanka&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=AvishkaMadusanka&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AvishkaMadusanka&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=AvishkaMadusanka&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
