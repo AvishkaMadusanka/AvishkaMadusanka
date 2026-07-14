@@ -1,4 +1,19 @@
-###👋 Hi, I'm Avishka Madusanka<br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi,+I'm+Avishka+Madusanka">
+</p>
+
+<h3 align="center">
+💻 BICT Undergraduate | 🌐 Aspiring Software Engineer | 🔐 Cybersecurity Enthusiast
+</h3>
+
+<p align="right">
+  <a href="https://github.com/AvishkaMadusanka">
+    <img src="https://komarev.com/ghpvc/?username=AvishkaMadusanka&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+  <img src="https://c.tenor.com/--AQwe1rA8EAAAAi/batman-pixel-art.gif" width="60">
+</p>
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/avishka-madusanka-401088407) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madusankaavishka23@gmail.com) 
 
