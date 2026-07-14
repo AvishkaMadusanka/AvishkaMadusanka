@@ -1,4 +1,4 @@
-👋 Hi, I'm Avishka Madusanka<br>
+###👋 Hi, I'm Avishka Madusanka<br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/avishka-madusanka-401088407) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madusankaavishka23@gmail.com) 
 
